@@ -35,5 +35,5 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/api-service.jar
+    - target/api-service-0.0.1-SNAPSHOT.jar
 
